@@ -7,8 +7,8 @@ Belajar hal baru
 - Pengusaha
     Membuat aplikasi (Pengelola Transaksi)
     Membuat aplikasi (Pengelola Barang)
-    Pemasaran Digital 
-    Company Profile
-    Desain Tata Ruang
-    Cyber Security
-    Buka Cabang
+    Pemasaran Digital > Membuat program support reseller yang dimana reseller ini akan membuat kita bekerja dengan sistem auto pilot 
+    Company Profile > Membangun profile bisnis menjadi terlihat lebih professional 
+    Desain Tata Ruang > Mengekspresikan passion untuk kemudahan
+    Cyber Security > Membangun keamanan privasi untuk reseller dan customer
+    Buka Cabang > Memperluas jangkauan pasar
